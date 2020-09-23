@@ -22,6 +22,10 @@ Pasos para ejecutar
   ```
   json-server --watch db.json --port 3004
   ```
+  ### _Test_
+  ```
+  yarn test
+  ```
 
   una vez iniciado el proyecto la ruta donde se muestran las vistas el la siguiente, 
 
