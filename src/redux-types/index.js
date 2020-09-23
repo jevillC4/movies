@@ -1,0 +1,19 @@
+export const MODALS = Object.freeze({
+  SHOW_MODAL_TURN: "SHOW_MODAL_TURN",
+  SHOW_MODAL_MOVIE: "SHOW_MODAL_MOVIE ",
+});
+
+export const TURNS = Object.freeze({
+  ADD_TURN: "ADD_TURN",
+  EDIT_TURN: "EDIT_TURN",
+  DELETE_TURN: "DELETE_TURN",
+  GET_ALL_TURNS: "GET_ALL_TURNS",
+  SET_EDIT_TURN: "SET_EDIT_TURN",
+});
+
+export const MOVIES = Object.freeze({
+  EDIT_MOVIE: "EDIT_MOVIE",
+  DELETE_MOVIE: "DELETE_MOVIE",
+  GET_ALL_MOVIES: "GET_ALL_MOVIES",
+  SET_EDIT_MOVIE: "SET_EDIT_MOVIE",
+});
